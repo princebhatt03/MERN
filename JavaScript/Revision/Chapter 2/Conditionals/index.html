@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Conditional</h1>
+    <script>
+      let sub1 = prompt('Enter first subject');
+      let m1 = parseInt(sub1);
+      let sub2 = prompt('Enter second subject');
+      let m2 = parseInt(sub1);
+      let sub3 = prompt('Enter third subject');
+      let m3 = parseInt(sub1);
+      let sub4 = prompt('Enter fourth subject');
+      let m4 = parseInt(sub1);
+      let sub5 = prompt('Enter fifth subject');
+      let m5 = parseInt(sub1);
+      let marks = m1 + m2 + m3 + m4 + m5;
+      let totalMarks = 500;
+      let percentage = (marks / totalMarks) * 100;
+      let grade;
+      if (percentage >= 90) {
+        alert('Excellent, You got ' + percentage + ' %');
+      } else if (percentage >= 80 && percentage < 90) {
+        alert('Very Good, You got ' + percentage + ' %');
+      } else if (percentage >= 70 && percentage < 80) {
+        alert('Good, You got ' + percentage + ' %');
+      } else if (percentage >= 60 && percentage < 70) {
+        alert('Satisfactory, You got ' + percentage + ' %');
+      } else if (percentage >= 50 && percentage < 60) {
+        alert('Pass, You got ' + percentage + ' %');
+      } else {
+        alert('Fail, You got ' + percentage + ' %');
+      }
+    </script>
+  </body>
+</html>

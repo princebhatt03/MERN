@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f4f8fb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  padding: 40px 0;
+}
+
+.container {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  padding: 32px 24px;
+  max-width: 400px;
+  width: 100%;
+  margin-top: 32px;
+  text-align: center;
+}
+
+h1 {
+  color: #2d3a4b;
+  margin-bottom: 24px;
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  font-size: 1.2rem;
+}
+
+button {
+  background: #2196f3;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 12px 28px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 8px 0;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #1769aa;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #388e3c;
+  min-height: 24px;
+}
+
+/* Add more classes as needed for your HTML structure */
