@@ -5,15 +5,15 @@
 
 - 👩‍💻Technologies : **MongoDB, NodeJS, ExpressJS, React**
 
-- ⚓Tools : [Git/GitHub](https://github.com/princebhatt03/MERN)
+- ⚓Tools : **[Git/GitHub](https://github.com/princebhatt03/MERN)**
 
-- 🖇Portfolio: [https://princebhatt03.github.io/Portfolio/](https://princebhatt03.github.io/Portfolio/)
+- 🖇Portfolio: **[https://princebhatt03.github.io/Portfolio/](https://princebhatt03.github.io/Portfolio)**
 
 - 📧Mail: **princebhatt316@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/prince16.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince16.03" height="30" width="40" /></a>
+<a href="https://instagram.com/prince16.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince20.02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
