@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#page1 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: red;
+}
+#page2 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: pink;
+}
+#page3 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: yellow;
+}
+#page4 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: salmon;
+}

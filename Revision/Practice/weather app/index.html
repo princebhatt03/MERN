@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title>Weather API</title>
+  </head>
+  <body>
+    <div id="main">
+      <input
+        type="text"
+        id="city"
+        placeholder="Enter city name" />
+      <button id="getWeather">Get Weather</button>
+    </div>
+    <script>
+      const button = document.getElementById('getWeather');
+      const cityInput = document.getElementById('city');
+
+      async function getWeather() {
+        const promise = await fetch(
+          `http://api.weatherapi.com/v1/current.json?key=84e373ccce9b4225a7f62150252105&q=${cityInput.value}&aqi=yes`
+        );
+      }
+
+      button.addEventListener('click', async () => {
+        console.log(cityInput.value);
+      });
+
+      //   http://api.weatherapi.com/v1/current.json?key=84e373ccce9b4225a7f62150252105&q=London&aqi=yes
+    </script>
+  </body>
+</html>

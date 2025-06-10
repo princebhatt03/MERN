@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Wireless Mouse",
+      "price": 25.99,
+      "inStock": true
+    },
+    {
+      "id": 102,
+      "name": "Mechanical Keyboard",
+      "price": 79.99,
+      "inStock": false
+    }
+  ]
+}
