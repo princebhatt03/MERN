@@ -5,9 +5,11 @@
 
 - 👩‍💻Technologies : **MongoDB, NodeJS, ExpressJS, React**
 
+- 📒Notes : **[Link](https://drive.google.com/file/d/1XsTxxhhZYVmBwxnvV-cG3SIuyAhtz7fM/view?usp=drive_link)**
+
 - ⚓Tools : **[Git/GitHub](https://github.com/princebhatt03/MERN)**
 
-- 🖇Portfolio: **[https://princebhatt03.github.io/Portfolio/](https://princebhatt03.github.io/Portfolio)**
+- 🖇Portfolio: **[Visit](https://princebhatt03.github.io/Portfolio)**
 
 - 📧Mail: **princebhatt316@gmail.com**
 
